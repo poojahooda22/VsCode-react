@@ -1,0 +1,6 @@
+.copilotBanner {
+    background: url(/copilot-free-banner-bg-dark.webp) no-repeat center;
+    background-size: cover;
+    border: solid 1px rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+}
