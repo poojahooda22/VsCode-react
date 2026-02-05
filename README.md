@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are availabl
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Bael](https://babeljs.io/) (r[oc](https://oxc.rs) whenuse in [rolldown-vite](https://vite.dev/guide/rolldown)) for
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Bael](https://babeljs.io/) (r[oc](https://oxc.rs) whenuse in [rolldown-vite](https://vite.dev/guide/rolldown)) fo
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/ for Fast R
 
 The React Compiler is not enabled on this template because of it impact on dev & build performances. [this documentation](https://react.dev/learn/react-compiler/installation).
