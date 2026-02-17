@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint 
 
-Currently, two official plugins are availabl
+Currently, two official plugins are availab
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses[Bael](https://babeljs.io/) (r[oc](https://oxc.rs) whenusen [rolldown-vite](https://vite.dev/guide/rolldown)) 
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/ fo
